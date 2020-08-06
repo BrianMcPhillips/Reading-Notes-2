@@ -1,0 +1,2 @@
+-Regular expressions (regex or regexp) are extremely useful in extracting information from any text by searching for one or more matches of a specific search pattern. Fields of application range from validation to parsing/replacing strings, passing through translating data to other formats and web scraping.One of the most interesting features is that once you’ve learned the syntax, you can actually use this tool in (almost) all programming languages ​.
+-Regex is good for data validation, data scraping, data wrangling, string parsing, string replacement, syntax highlighting.
