@@ -1,0 +1,4 @@
+Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine.
+Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library.
+In addition to being the package manager for JavaScript, npm is also the world’s largest software registry. There are over 1,000,000 packages of JavaScript code available to download, with billions of downloads per week. Let’s take a quick look at how we would use npm to install a package.
+Node’s execution model causes the server very little overhead, and consequently it’s capable of handling a large number of simultaneous connections.
