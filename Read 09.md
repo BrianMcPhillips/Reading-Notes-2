@@ -1,0 +1,8 @@
+Database normalization is a process used to organize a database into tables and columns.  The main idea with this is that a table should be about a specific topic and only supporting topics included.
+By limiting a table to one purpose you reduce the number of duplicate data contained within your database. This eliminates some issues stemming from database modifications.
+The best way to learn SQL is to practice writing commands on a real relational database.
+The easiest way to get started with writing SQL statements in Ingres is to use their Visual SQL application which gives you a graphical interface to write statements and view output. 
+A primary key is used to make each record unique in atleast one way by forcing a field to have unique values. A unique key like a primary key is also used to make each record inside a table unique. Once you have defined the primary key of a table, any other fields you wish to make unique is done through this constraint.
+After a table has been created, you can still modify its structure using the ALTER TABLE command.
+A query is a SQL statement that is used to extract a subset of data from your database and presents it in a readable format. 
+You can use the DELETE command to delete records from a table. This means that you can choose which records you want to delete based on a condition, or delete all records but you cannot delete certain fields of a record using this statement. 
