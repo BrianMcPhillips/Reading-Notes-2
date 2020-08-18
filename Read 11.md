@@ -1,0 +1,3 @@
+First video gives a brief introduction on the basis of the series. Covers the details of what the speaker will go over in the form. Starts off by setting background color margin and padding of the form.
+Second video covers the styling of the radio buttons. Sets opacity to 0 and width to zero so you cannot see the radio buttons.Set radio buttons to an image and used checked to show what is selected as well as a hand when on hover. 
+Third video shows how to style the remaining radio buttons to mirror the first ones. There are different values so there are more things to handle.
