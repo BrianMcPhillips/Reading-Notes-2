@@ -1,0 +1,1 @@
+A project idea that I have is to create a fantasy sports league. It would have multiple user accounts, pages that are authorized for each user, a team or list of players from API for each user, game updates for each player. I found a yahoo developer API that is for fantasy sports that may be worth looking into. 
